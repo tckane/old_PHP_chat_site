@@ -5,10 +5,15 @@
 This was written entirely by a noob without following best practices of any kind, inside these scripts you will find:
 
 > Security holes and hacky bypasses.
+
 > Lots of repetition.
+
 > Newer code on top of older code.
+
 > Defunct scripts that never got removed.
+
 > mySQL not even in PDO statements (some of this code is 16 years old)
+
 > And many more violations. It's basically a PHP Haunted House.
 
 
@@ -19,16 +24,27 @@ It was intended to compete against websites that nobody remembers; such as MoPil
 The site comprised the following features:
 
 > Threaded discussion boards (forums).
+
 > Real time chat (like IRC).
+
 > Private Messaging (for long conversations).
+
 > Pop Up Messaging (for quicker communication).
+
 > Email (via pop3 & imap).
+
 > Friends (before facebook, this was known as a 'buddy list'.
+
 > User Blogs (each user could start a blog).
+
 > Rich Text Formatting (for pm, chat, forums & blogs).
+
 > The ability to upload & share media.
+
 > User ranking system.
+
 > Customizable themes.
+
 > User profiles.
 
 
@@ -45,8 +61,10 @@ I closed the site in 2006 after most of the userbase migrated to Facebook.
 
 When the site closed, the following features were in development, but were never finished:
 
-> The ability to create one's own WAP site without writing code (To compete with pepperonity / o2 communityes)
+> The ability to create one's own WAP site without writing code (To compete with pepperonity / o2 communities)
+
 > Native email, i.e. user@phoenixchat.co.uk (as opposed to pop3/imap)
+
 > SMS messaging between the site and user devices.
 
 Most of the code was written by myself but third party scripts for Device Detection and POP3 Polling were used.
