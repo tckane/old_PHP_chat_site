@@ -35,7 +35,7 @@ The site comprised the following features:
 
 > Email (via pop3 & imap).
 
-> Friends (before facebook, this was known as a 'buddy list'.
+> Friends (before facebook, this was known as a 'buddy list').
 
 > User Blogs (each user could start a blog).
 
