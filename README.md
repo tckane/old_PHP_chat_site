@@ -69,3 +69,10 @@ When the site closed, the following features were in development, but were never
 
 Most of the code was written by myself but third party scripts for Device Detection and POP3 Polling were used.
 It would be impossible for me to find and credit the authors now, but if you see your code here and want to be credited, please get in touch!
+
+The purpose of this repo is:
+> To tell a tale of internet days gone by that has been completely forgotten by history.
+
+> To show my coding roots.
+
+> As a showcase of some of the worst code you'll ever see. a "what not to do" if you will.
