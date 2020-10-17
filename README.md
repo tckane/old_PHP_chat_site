@@ -6,6 +6,8 @@ This was written entirely by a noob without following best practices of any kind
 
 > Security holes and hacky bypasses.
 
+> Hard coded variables.
+
 > Lots of repetition.
 
 > Newer code on top of older code.
