@@ -76,3 +76,6 @@ The purpose of this repo is:
 > To show my coding roots.
 
 > As a showcase of some of the worst code you'll ever see. a "what not to do" if you will.
+
+
+I would also like to take this opportunity to remind you that this is not for public consumption; don't use it, it's not worth the heartache!
